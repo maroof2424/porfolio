@@ -95,7 +95,7 @@ images.forEach(image => {
 });
 gsap.to(".image-wrapper", {
   x: "-50%",
-  duration: 10,
+  duration: 20,
   ease: "none",
   repeat: -1
 });
